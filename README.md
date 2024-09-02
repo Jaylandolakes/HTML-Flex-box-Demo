@@ -1,2 +1,2 @@
-# HTML-Flex-box-Demo
-Practicing with divs and the flexbox capabilities 
+# HTML-Flexbox-&-Grid-Demo
+Practicing with divs, grids, and the flexbox capabilities 
