@@ -1,0 +1,51 @@
+.container {
+    background:lightblue;
+    height: 700px;
+    width:500px;
+}
+
+.test-1 {
+    padding-top:5px;
+    background-color: red;
+    width:400px;
+    height:200px;
+    outline-width: 10px;
+    border-radius: 10px;
+}
+
+.test-2 {
+    margin-left:5px;
+    margin-top:5px;
+    background-color: blue;
+    width:390px;
+    height:90px;
+    border-radius: 10px;
+}
+
+.test-3 {
+    margin-left:5px;
+    margin-top: 5px;
+    background-color: green;
+    width:390px;
+    height:90px;
+    border-radius: 10px;
+}
+
+.test-4 {
+    margin-left: 50px;
+    margin-right:5px;
+    margin-top:5px;
+    background-color: yellow;
+    width:140px;
+    height: 80px;
+    display:inline-block;
+    border-radius: 10px;
+}
+
+.test-5 {
+    background-color: pink;
+    width:140px;
+    height: 80px;
+    display: inline-block;
+    border-radius: 10px;
+}
